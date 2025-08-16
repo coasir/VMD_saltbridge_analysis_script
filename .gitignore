@@ -1,0 +1,33 @@
+# PDB files
+*.pdb
+*.ent
+
+# VMD files
+*.vmd
+*.dcd
+*.psf
+*.log
+
+# Output files
+*.dat
+*.txt
+*.csv
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# Backup files
+*.bak
+*.backup
+
+# Results directory (if created)
+results/
+output/
