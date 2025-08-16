@@ -24,8 +24,8 @@ This tool identifies and quantifies salt bridges between T-cell receptor (TCR) a
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/yourusername/tcr-pmhc-saltbridge-analysis.git
-cd tcr-pmhc-saltbridge-analysis
+git clone https://github.com/coasir/VMD_saltbridge_analysis_script.git
+cd VMD_saltbridge_analysis_script
 ```
 
 2. Ensure VMD is installed and accessible from command line
@@ -194,29 +194,6 @@ $all delete
 - **Distribution**: Can vary significantly based on peptide sequence and TCR specificity
 - **Zero salt bridges**: Completely normal, many complexes rely on hydrogen bonds and hydrophobic interactions
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request. For major changes, please open an issue first to discuss what you would like to change.
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## Citation
-
-If you use this script in your research, please cite:
-
-```
-[Your Name]. (2024). TCR-pMHC Salt Bridge Analysis Tool. 
-GitHub repository: https://github.com/yourusername/tcr-pmhc-saltbridge-analysis
-```
-
-## References
-
-1. Rudolph, M. G., Stanfield, R. L., & Wilson, I. A. (2006). How TCRs bind MHCs, peptides, and coreceptors. *Annual review of immunology*, 24, 419-466.
-
-2. Garcia, K. C., & Adams, E. J. (2005). How the T cell receptor sees antigen—a structural view. *Cell*, 122(3), 333-346.
-
-## Contact
-
-For questions or suggestions, please open an issue on GitHub or contact [your-email@domain.com].
